@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "cycle-scripts": "1.1.0"
+  },
+  "dependencies": {
+    "@cycle/dom": "^17.0.0",
+    "@cycle/run": "^3.1.0",
+    "babel-plugin-transform-react-jsx": "^6.23.0",
+    "snabbdom-jsx": "^0.3.1",
+    "xstream": "^10.3.0"
+  },
+  "scripts": {
+    "start": "cycle-scripts start",
+    "test": "cycle-scripts test",
+    "build": "cycle-scripts build",
+    "eject": "cycle-scripts eject"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}
