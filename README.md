@@ -4,5 +4,5 @@ this is also a test
 
 
 
-[![Build Status](https://s3-us-west-1.amazonaws.com/otbeavers-uswest/start-page-status/decaffeination)](https://travis-ci.org/Microsoft/vscode)
+[![Build Status](https://s3-us-west-1.amazonaws.com/otbeavers-uswest/start-page-status/decaffeination?branch=master)](https://travis-ci.org/Microsoft/vscode)
 
